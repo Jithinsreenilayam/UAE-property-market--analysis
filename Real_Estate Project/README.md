@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project delivers a **full-stack property market intelligence solution** for the UAE real estate sector — from raw data ingestion through SQL transformation to a multi-page Power BI dashboard built for business decision-making.
 
@@ -20,7 +20,7 @@ The dataset covers **492 residential property listings** across 5 UAE emirates (
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 uae-property-analysis/
@@ -48,7 +48,7 @@ uae-property-analysis/
 
 ---
 
-## 🏗️ Project Pipeline 
+## Project Pipeline 
 
 ```
 Raw CSV  →  MySQL Ingestion  →  Data Cleaning  →  Analytical View  →  Power BI  →  Dashboards
@@ -86,9 +86,9 @@ This project was structured around real questions that UAE real estate organisat
 
 ---
 
-## 📊 Key Findings & Insights
+## Key Findings & Insights
 
-### 🔑 RERA Compliance Is a Powerful Price Signal
+### RERA Compliance Is a Powerful Price Signal
 
 | Status | Avg Price (AED) | Listings |
 |---|---|---|
@@ -101,7 +101,7 @@ This project was structured around real questions that UAE real estate organisat
 - **RAK and Ajman have 0% RERA registration** — indicating that regulatory adoption in emerging emirates is a key opportunity for developers to differentiate.
 - For **3-bedroom units specifically**, RERA-registered properties command a **121% premium** (AED 3.48M vs AED 1.58M) — the strongest signal across all property types.
 
-### 🏙️ Dubai Dominates Premium, Abu Dhabi Leads Volume Value
+### Dubai Dominates Premium, Abu Dhabi Leads Volume Value
 
 | Emirate | Listings | Avg Price (AED) | Avg Price/Bedroom |
 |---|---|---|---|
@@ -114,7 +114,7 @@ This project was structured around real questions that UAE real estate organisat
 - **Dubai's avg price per bedroom (AED 1.19M) is 10× higher than Ajman** — the largest bedroom-efficiency gap in UAE.
 - **RAK (Ras Al Khaimah) punches above its weight** — averaging AED 2.81M despite only 14 listings, driven by Al Marjan Island's tourism-linked premium developments.
 
-### 📍 Top 10 Premium Areas (Min. 5 listings)
+### Top 10 Premium Areas (Min. 5 listings)
 
 | Rank | Area | City | Avg Price (AED) | Listings |
 |---|---|---|---|---|
@@ -131,7 +131,7 @@ This project was structured around real questions that UAE real estate organisat
 
 > All top 10 premium areas are in Dubai. Al Marjan Island (RAK) is the only non-Dubai entry — a strong signal of RAK's rising investment profile.
 
-### 💡 Best Value Areas (Price per Bedroom)
+### Best Value Areas (Price per Bedroom)
 
 | Area | City | Avg Price/Bedroom |
 |---|---|---|
@@ -156,7 +156,7 @@ This project was structured around real questions that UAE real estate organisat
 
 ---
 
-## 💼 Strategic Recommendations
+## Strategic Recommendations
 
 These recommendations are framed for the UAE real estate industry:
 
@@ -176,7 +176,7 @@ These recommendations are framed for the UAE real estate industry:
 
 ---
 
-## 🛠️ Technical Details
+## Technical Details
 
 ### MySQL Pipeline
 
@@ -322,7 +322,7 @@ The UAE real estate market was chosen deliberately: it is one of the most data-r
 ## 📬 Contact
 
 **JITHIN SREENILAYAM**
-Data Analyst | UAE Market Focus
+| Data Analyst | UAE Market Focus
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jithin-sreenilayam/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-C9A84C?style=flat)](https://your-portfolio.com)
