@@ -9,7 +9,7 @@ Analysis of 492 UAE apartment listings across 5 emirates (June 2022 – March 20
 
 ---
 
-## Insight 1 — Dubai Commands Premium Pricing, But RAK Leads on Average
+##  Dubai Commands Premium Pricing, But RAK Leads on Average
 
 **Finding:**
 Ras Al Khaimah records the highest average property price in the dataset at AED 2,812,817 — higher than Dubai's AED 2,587,409 — despite only 14 listings.
@@ -31,7 +31,7 @@ RAK's high average is driven by Al Marjan Island luxury listings (avg AED 3.0M, 
 
 ---
 
-## Insight 2 — RERA Registration Carries an 83% Price Premium
+## RERA Registration Carries an 83% Price Premium
 
 **Finding:**
 RERA-registered listings average AED 2,567,119 versus AED 1,400,794 for non-registered listings — an 83.3% premium.
@@ -58,7 +58,7 @@ The premium reflects buyer willingness to pay for regulatory assurance — escro
 
 ---
 
-## Insight 3 — Dubai's RERA Mandate Creates a Two-Speed Market
+## Dubai's RERA Mandate Creates a Two-Speed Market
 
 **Finding:**
 Dubai achieves 100% RERA compliance (307/307 listings). Every other emirate falls dramatically short.
@@ -80,7 +80,7 @@ Abu Dhabi's 4.1% compliance rate across 122 listings represents the most signifi
 
 ---
 
-## Insight 4 — The Market Grew 142× in Monthly Volume Between 2022 and 2024
+## The Market Grew 142× in Monthly Volume Between 2022 and 2024
 
 **Finding:**
 Monthly listing volume expanded from 1 listing in mid-2022 to 142 in February 2024.
@@ -104,7 +104,7 @@ Price peaked in September 2023 at AED 3.07M average as volume was still relative
 
 ---
 
-## Insight 5 — Abu Dhabi Is the UAE's Value Market
+## Abu Dhabi Is the UAE's Value Market
 
 **Finding:**
 Abu Dhabi dominates the best-value areas by price per bedroom.
@@ -129,7 +129,7 @@ Dubai's average price per bedroom (AED 1,186,610) is more than 2× Abu Dhabi's (
 
 ---
 
-## Insight 6 — Premium Supply Is Concentrated in Eight Dubai Neighbourhoods
+## Premium Supply Is Concentrated in Eight Dubai Neighbourhoods
 
 **Finding:**
 All top 10 areas by average price are in Dubai. Eight areas individually average over AED 3.5M.
@@ -154,7 +154,7 @@ Business Bay stands out: 24 listings at AED 4.0M average makes it the highest-vo
 
 ---
 
-## Insight 7 — Studio Segment Is RERA-Registered More Than 3BR Units
+## Studio Segment Is RERA-Registered More Than 3BR Units
 
 **Finding:**
 Studios have a higher RERA compliance rate (79.4%) than 3BR apartments (60.1%).
