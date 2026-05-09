@@ -39,7 +39,7 @@ uae-property-analysis/
 │   ├── data_dictionary.md	       ← Describe every field in the dataset
 │   ├── page2_rera_compliance.md       ← All DAX measures for Page 2
 │   └── page3_area_intelligence.md     ← All DAX measures for Page 3
-    └── business_insights.md	       ← Key findings from the analysis
+│   └── business_insights.md	       ← Key findings from the analysis
 │
 └── uae_properties.csv                 ← Source dataset (492 listings)
 ```
