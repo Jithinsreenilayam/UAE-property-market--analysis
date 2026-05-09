@@ -240,16 +240,8 @@ These personas are illustrative frameworks derived from the data — not prescri
 | `03_data_cleaning.sql` | Engineering | `uae_properties_clean` — feature-rich analytical table |
 | `04_analytical_views.sql` | Aggregation | 8 views for Power BI consumption |
 
-### Analytical Views
 
-| View | Business Question Answered |
-|---|---|
-
-| `vw_listings_detail` | Full drill-through table for individual listing inspection |
-
----
-
-## 📁 Dataset
+##  Dataset
 
 **File:** `uae_properties.csv` | **Rows:** 492 | **Columns:** 10  
 **Period:** June 2022 – March 2024 | **Segment:** Apartments, buy transactions only
@@ -285,7 +277,7 @@ Transparency about dataset constraints is essential for accurate interpretation 
 
 ---
 
-## ▶️ How to Reproduce
+##  How to Reproduce
 
 **Prerequisites:** MySQL 8.0+, Power BI Desktop (free download from Microsoft)
 
@@ -343,7 +335,7 @@ The UAE real estate market was chosen deliberately: it is one of the most data-r
 ## Contact
 
 **JITHIN SREENILAYAM**
-Data Analyst | UAE Market Focus
+| Data Analyst | UAE Market Focus
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jithin-sreenilayam/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-C9A84C?style=flat)](link)
