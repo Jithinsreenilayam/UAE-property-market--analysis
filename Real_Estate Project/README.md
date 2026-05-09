@@ -28,11 +28,7 @@ uae-property-analysis/
 ├── README.md                          ← You are here
 │
 ├── sql/
-│   └── uae_property_analysis.sql      ← Full MySQL pipeline in 4 section (Inspection → cleaning → views)
-│
-├── dax/
-│   ├── page2_rera_compliance.md       ← All DAX measures for Page 2
-│   └── page3_area_intelligence.md     ← All DAX measures for Page 3
+│   └── uae_property_analysis.sql      ← Full MySQL pipeline in 4 section (Inspection → cleaning → views
 │
 ├── assets/
 │   ├── dashboard_page2_preview.png    ← Page 2 screenshot (RERA & Compliance)
@@ -41,7 +37,9 @@ uae-property-analysis/
 ├── docs/
 │   ├── dashboard_guide.md             ← Dashboard guidance for each page
 │   ├── data_dictionary.md	       ← Describe every field in the dataset
-│   └── business_insights.md	       ← Key findings from the analysis
+│   ├── page2_rera_compliance.md       ← All DAX measures for Page 2
+│   └── page3_area_intelligence.md     ← All DAX measures for Page 3
+    └── business_insights.md	       ← Key findings from the analysis
 │
 └── uae_properties.csv                 ← Source dataset (492 listings)
 ```
@@ -216,7 +214,7 @@ Avg Price Per Bedroom = AVERAGEX(
     uae_properties_clean[price] / uae_properties_clean[bedrooms])
 ```
 
-See [`dax/page2_rera_compliance.md`](dax/page2_rera_compliance.md) and [`dax/page3_area_intelligence.md`](dax/page3_area_intelligence.md) for the full measure library.
+See [`docs/page2_rera_compliance.md`](docs/page2_rera_compliance.md) and [`docs/page3_area_intelligence.md`](docs/page3_area_intelligence.md) for the full measure library.
 
 ---
 
