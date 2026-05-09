@@ -286,7 +286,7 @@ mysql -u root -p uae_property_db < sql/uae_property_analysis.sql
 - Import all 8 views + `uae_properties_clean`
 
 **Step 4 — Add DAX measures**
-- Copy measures from `dax/page2_rera_compliance.md` and `dax/page3_area_intelligence.md`
+- Copy measures from `docs/page2_rera_compliance.md` and `docs/page3_area_intelligence.md`
 - Add calculated column `rera_status` first (all other RERA measures depend on it)
 
 ---
